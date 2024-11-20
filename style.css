@@ -1,0 +1,53 @@
+.heading{
+    margin : 20px;
+    font-size: 50px;
+    color: purple;
+}
+.content{
+    text-align: center;
+    justify-content: center;
+}
+button{
+    width:50px;
+    height:50px;
+    font-size: 30px;
+    margin : 10px;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: blue;
+    border-width: 5px;
+    border-color: gold;
+}
+html{
+    background-color: aqua;
+}
+.Xbtn{
+background-color: red;
+}
+.Ybtn
+{
+background-color: green;
+}
+.invisible{
+    visibility: hidden;
+}
+.visible{
+    visibility: visible;
+}
+.finalx{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:red;
+}
+.finalo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:green;
+}
+.reload{
+    font-size: 30px;
+    color:brown;
+}
